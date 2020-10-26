@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PregnancyTips</string>
+    <string name="main_logo">Main_Logo</string>
+    <string name="toolbar_logo">Toolbar_Logo</string>
+    <string name="notif_ic">Notif_Ic</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tips_icon">Tips_Icon</string>
+    <string name="discover_healthcare_tips">Discover Healthcare Tips</string>
+    <string name="do_s_and_don_t_when_pregnant">Do\'s and don\'t when pregnant</string>
+    <string name="tips">Tips</string>
+    <string name="excercise">Excercise</string>
+    <string name="regular_exercises_every_month">Regular exercises every month</string>
+</resources>
